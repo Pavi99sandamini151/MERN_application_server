@@ -1,0 +1,7 @@
+{"web":{"client_id":"48762477741-tsacsf25k3041npa1tq0v69flkkqr3f2.apps.googleusercontent.com",
+        "project_id":"pure-faculty-362404",
+        "auth_uri":"https://accounts.google.com/o/oauth2/auth",
+        "token_uri":"https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url":"https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret":"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",
+        "redirect_uris":["http://localhost:8080/auth/google/callback"]}}
